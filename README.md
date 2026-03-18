@@ -1,5 +1,7 @@
 # Peak Terminal
 
+![Peak Terminal screenshot](assets/screenshot.png)
+
 A native Rust terminal emulator with tabs, split panes, custom themes, and Starship prompt support.
 
 Built with [eframe/egui](https://github.com/emilk/egui) and a real PTY backend via [portable-pty](https://github.com/wez/wezterm/tree/main/pty).
